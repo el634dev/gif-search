@@ -38,7 +38,7 @@ app.set('views', './views');
 // Show a gif image
 app.get('/', (req, res) => {
    // Handle the home page when we haven't queried yet
-   term = ""
+   term = "cats"
    //--------
    if (req.query.term) {
         term = req.query.term
