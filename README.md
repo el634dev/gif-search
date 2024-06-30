@@ -70,6 +70,9 @@ To run this project, you will need to add the following environment variables to
 
 <!-- Getting Started -->
 ## Getting Started
+> Grab your [Tenor API Key](https://tenor.com/gifapi/documentation#quickstart)
+> After you have you key, clone this repo using `git clone` and the link under the green code button
+> Run `npm install` and then `npm start`
 
 <!-- Prerequisites -->
 ### Prerequisites
